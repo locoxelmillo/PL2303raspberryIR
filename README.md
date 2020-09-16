@@ -7,7 +7,7 @@ First download the files to a local folder.
 
 Then open the terminal, go to the location of program.
 
-Introduce the coigo with the requirements
+Introduce the code with the requirements
 
 `pip install -r /path/to/requirements.txt `
 
